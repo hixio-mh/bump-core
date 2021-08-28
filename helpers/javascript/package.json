@@ -1,7 +1,7 @@
 {
   "name": "bump-core",
   "dependencies": {
-    "yarn": "https://github.com/dependabot/yarn.git"
+    "yarn": "0.26.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
